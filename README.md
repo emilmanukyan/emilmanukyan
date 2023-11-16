@@ -8,7 +8,7 @@ I started learning to program about 2.5 years ago and i'm still learning.
 
 * 🌍  I'm based in Yerevan
 * ✉️  You can contact me at [emilmanukyan](mailto:emilmanukyan23@gmail.com)
-* 🧠  I'm learning Yerevan state college of informatics
+* 🧠  I'm studying Yerevan state college of informatics
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
