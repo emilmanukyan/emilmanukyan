@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Self-taught Junior Programmer
 -----------------------------
 
-I started learning to program about 2.5 years ago and i'm still learning.
+I started learning to program about 3 years ago and i'm still learning.
 
 * 🌍  I'm based in Yerevan
 * ✉️  You can contact me at [emilmanukyan](mailto:emilmanukyan23@gmail.com)
