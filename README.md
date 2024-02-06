@@ -33,3 +33,9 @@ I started learning to program about 3 years ago and i'm still learning.
 <a href="http://www.github.com/emilmanukyan"><img src="https://github-readme-stats.vercel.app/api?username=emilmanukyan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emilmanukyan's GitHub stats" /></a>
 
 <a href="https://github.com/emilmanukyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilmanukyan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
