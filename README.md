@@ -26,6 +26,7 @@ I started learning to program about 3 years ago and i'm still learning.
 <a href="https://instagram.com/em._.manukyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="em._.manukyan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/emilmanukyan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emilmanukyan23" height="30" width="40" /></a>
 <a href="https://discord.gg/657519466657349632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="657519466657349632" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/emil-manukyan-75689b2a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="657519466657349632" height="30" width="40" /></a>
 </p>
 
 <b>My GitHub Stats</b>
